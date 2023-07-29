@@ -1,5 +1,5 @@
 # Early Bird Light
-My personal carefully crafted IntelliJ IDEA color scheme.
+My personal carefully crafted IntelliJ IDEA color scheme for PHPStorm.
 
 I believe it started with the Classic Light with addition of hues and font variants to make code syntax easily distinguishable while keeping overall experience calm and collected.
 
